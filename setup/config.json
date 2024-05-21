@@ -6,7 +6,7 @@
     },
   "config": {
     "options": {
-      "watch-url": ["https://youtu.be/fOoSbUoayQE?si=32BAPa8GI2MqQhjB"],
+      "watch-url": ["https://www.youtube.com/watch?v=CDTG-igDKrs"],
       "timestamp": "{end:1719680400}"
         },
         "text-1": [
@@ -100,77 +100,77 @@
         "smallimg": [],
         "button-1": [
             {
-                "name": "M",
+                "name": "C",
+                "url": "https://discord.gg/y7m4wrq7DH"
+            },
+            {
+                "name": "a",
+                "url": "https://discord.gg/y7m4wrq7DH"
+            },
+            {
+                "name": "t",
+                "url": "https://discord.gg/y7m4wrq7DH"
+            },
+            {
+                "name": "H",
+                "url": "https://discord.gg/y7m4wrq7DH"
+            },
+            {
+                "name": "u",
+                "url": "https://discord.gg/y7m4wrq7DH"
+            },
+            {
+                "name": "B",
+                "url": "https://discord.gg/y7m4wrq7DH"
+            },
+            {
+                "name": "",
                 "url": "https://discord.gg/jmmrQcwYP3"
             },
             {
-                "name": "MI",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "",
+                "url": "https://discord.gg/y7m4wrq7DH"
             },
             {
-                "name": "MIY",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "",
+                "url": "https://discord.gg/y7m4wrq7DH"
             },
             {
-                "name": "MIYA",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "",
+                "url": "https://discord.gg/y7m4wrq7DH"
             },
             {
-                "name": "MIYAK",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "",
+                "url": "https://discord.gg/y7m4wrq7DH"
             },
             {
-                "name": "MIYAKO",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "",
+                "url": "https://discord.gg/y7m4wrq7DH"
             },
             {
-                "name": "MIYAKO ",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "",
+                "url": "https://discord.gg/y7m4wrq7DH"
             },
             {
-                "name": "MIYAKO V",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "",
+                "url": "https://discord.gg/y7m4wrq7DH"
             },
             {
-                "name": "MIYAKO V1",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "",
+                "url": "https://discord.gg/y7m4wrq7DH"
             },
             {
-                "name": "O",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "",
+                "url": "https://discord.gg/y7m4wrq7DH"
             },
             {
-                "name": "OW",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "OWN",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "OWN BY 4",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "OWN BY 4l",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "OWN BY 4le",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "OWN BY 4lev",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "OWN BY 4levy",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "",
+                "url": "https://discord.gg/y7m4wrq7DH"
             }
         ],
         "button-2": [
             {
-                "name": "4levy 's Contact",
+                "name": "Bio Me✨",
                 "url": "https://github.com/4levy"
             }
         ]

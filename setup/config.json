@@ -6,7 +6,7 @@
     },
   "config": {
     "options": {
-      "watch-url": ["https://www.youtube.com/watch?v=CDTG-igDKrs"],
+      "watch-url": ["https://youtu.be/fOoSbUoayQE?si=32BAPa8GI2MqQhjB"],
       "timestamp": "{end:1719680400}"
         },
         "text-1": [
@@ -62,7 +62,6 @@
             "{NF6(【 28 / 30 】)} | 🌸 ɴᴀᴏ ᴛᴏᴍᴏʀɪ 🌸",
             "{NF6(【 29 / 30 】)} | 🌸 ꜱʜɪɴᴀᴏ ʜɪʀᴀɢɪ 🌸",
             "{NF6(【 30 / 30 】)} | 🌸 ᴛᴀɪɢᴀ ᴀɪꜱᴀᴋᴀ 🌸"
-
         ],
         "bigimg": [
             "https://i.ibb.co/9s3BXdX/raw-676624984.gif",
@@ -122,12 +121,11 @@
             {
                 "name": "B",
                 "url": "https://discord.gg/y7m4wrq7DH"
-            },
-            {
+            }
         ],
         "button-2": [
             {
-                "name": "Bio Me✨",
+                "name": "Bio Me",
                 "url": "https://lnk.bio/SolX"
             }
         ]
